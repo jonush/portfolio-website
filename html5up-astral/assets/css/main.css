@@ -1558,13 +1558,43 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.img1, .img2, .img3 {
-			border: 2px solid rgb(77, 158, 140);
+		.img1 {
+			background: rgb(77, 158, 140);
+			height: 250px;
+		}
+
+		.img1 h3 {
+			color: black;
+			text-align: center;
+			padding-top: 30%;
+		}
+
+		.img2 {
+			background: rgb(77, 158, 140);
+			height: 250px;
+		}
+
+		.img2 h3 {
+			color: black;
+			text-align: center;
+			padding-top: 30%;
+		}
+
+		.img3 {
+			background: rgb(77, 158, 140);
+			height: 250px;
+		}
+
+		.img3 h3 {
+			color: black;
+			text-align: center;
+			padding-top: 30%;
 		}
 
 		.image.fit {
 			display: block;
 			width: 100%;
+			text-decoration: none;
 		}
 
 		.image.featured {
